@@ -8,7 +8,7 @@
 - Change color of bars when: Comparing and swaping two values in an array.
 - Change size of the array in real time.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
