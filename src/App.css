@@ -1,0 +1,15 @@
+.bar{
+  border-radius: 5px 5px 0 0;
+	width: 25px;
+	margin-left: px;
+	margin-right: 10px;
+ 
+}
+.row {
+  width: 100%;
+  margin: 0 auto;
+  vertical-align: bottom;
+  text-align: center;
+  justify-items: center;
+  
+}
