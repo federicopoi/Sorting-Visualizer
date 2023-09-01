@@ -1,80 +1,45 @@
-# Sorting Visualizer
+# Sorting Visualizer Project
 
-## Unit testing
+Welcome to the Sorting Visualizer project! This project is designed to provide a visual representation of various sorting algorithms in action. Written by [Your Name], this web-based application allows users to observe and understand how different sorting algorithms work by visually tracking the process of arranging a set of elements.
 
+## Key Features
 
-## Future work
-- Add more sorting algorithms
-- Change color of bars when: Comparing and swaping two values in an array.
-- Change size of the array in real time.
+- **Interactive Visualization:** Watch as sorting algorithms rearrange elements in real-time, providing an engaging way to learn about their mechanics and efficiency.
 
-## Getting Started with Create React App
+- **Multiple Sorting Algorithms:** The project currently supports a range of sorting algorithms, including (mention the sorting algorithms you've implemented, such as Bubble Sort, Merge Sort, Quick Sort, etc.).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **Customization:** Adjust the size of the array and observe how algorithms handle different data quantities.
+
+- **Color Indications:** Observe changes in bar color to distinguish between the comparison and swapping of elements.
+
+## Getting Started
+
+To run the Sorting Visualizer project on your local machine, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/federicopoi/Sorting-Visualizer.git`
+2. Navigate to the project directory: `cd Sorting-Visualizer`
+3. Install project dependencies: `yarn install`
+4. Start the development server: `yarn start`
+5. Open your web browser and go to `http://localhost:3000` to see the Sorting Visualizer in action.
 
 ## Available Scripts
 
-In the project directory, you can run:
+- `yarn start`: Launches the development mode of the application, allowing you to view and interact with the sorting visualizer in your browser.
 
-### `yarn start`
+- `yarn test`: Initiates the test runner in interactive watch mode, enabling you to run tests for the project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- `yarn build`: Builds the application for production, generating optimized and minified files in the `build` folder.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- `yarn eject`: Ejects from the Create React App setup, granting more control over configurations and dependencies. Note that this is irreversible.
 
-### `yarn test`
+## Contributing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contributions to this project are welcome! If you'd like to add new sorting algorithms, enhance visualizations, or fix issues, feel free to fork the repository and submit pull requests.
 
-### `yarn build`
+## Future Plans
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Expanding the collection of sorting algorithms.
+- Real-time analysis of algorithm performance.
+- User interface enhancements and customization options.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for checking out the Sorting Visualizer project. Dive into the world of sorting algorithms and enhance your understanding through interactive visualization!
