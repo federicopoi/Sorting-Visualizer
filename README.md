@@ -1,6 +1,8 @@
 # Sorting Visualizer Project
 
-Welcome to the Sorting Visualizer project! This project is designed to provide a visual representation of various sorting algorithms in action. Written by [Your Name], this web-based application allows users to observe and understand how different sorting algorithms work by visually tracking the process of arranging a set of elements.
+Welcome to the Sorting Visualizer project! This project is designed to provide a visual representation of various sorting algorithms in action. This web-based application allows users to observe and understand how different sorting algorithms work by visually tracking the process of arranging a set of elements.
+
+<img width="1512" alt="Screenshot 2023-08-31 at 21 07 28" src="https://github.com/federicopoi/Sorting-Visualizer/assets/64434872/5060ad7f-aa4d-4a85-b96a-d17ffafb6a19">
 
 ## Key Features
 
